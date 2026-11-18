@@ -1,4 +1,4 @@
-// Contrato A CONFIRMAR com o Jonatan (ver CONTRATO-API.md).
+// Contrato com a API Java (ver CONTRATO-API.md).
 export interface BaseLegal {
   norma: string
   referencia?: string

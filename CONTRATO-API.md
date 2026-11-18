@@ -1,5 +1,5 @@
 
-# Contrato Front ↔ API Java (A CONFIRMAR com o Jonatan)
+# Contrato Front ↔ API Java (em uso na integração com a API publicada)
 
 Os documentos do Plano Mestre e do roteiro divergem em alguns pontos. O front isola tudo em `src/services/` e `src/types/`;
 quando o Java for fechado, só esses arquivos mudam. Prefixo configurável em `VITE_API_PREFIX` (padrão `/api`).
